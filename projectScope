@@ -1,0 +1,17 @@
+// program that is used with commercial off-set smokers to monitor, track 
+// and keep a history of cooking temperatures 
+
+// sensors will be located remotely and connected via wireless network
+// data will be displayed via a web-based dashboard
+
+// real-time data will show graphic analog thermometers.  
+// Users will be able to set ranges that will be 
+// represented by colors.
+
+// all data will be sampled on a user selectable 
+// period of time
+
+// all data will be saved and available for review
+
+
+
